@@ -24,12 +24,6 @@ A utility designed to convert `.bat` scripts into C++ programs that run commands
 - Required Python packages:
   - `json`
 
-You can install the necessary Python dependencies by running:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## How It Works
 
 1. **Python Script (`convert_to_cpp.py`)**:
