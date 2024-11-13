@@ -2,6 +2,9 @@
 
 A utility designed to convert `.bat` scripts into C++ programs that run commands invisibly. It reads a configuration file (in `.json` format) containing command-line instructions, converts them into executable C++ code, and then runs them without showing a command window to the user. This tool is ideal for performing background tasks such as modifying system variables, registry settings, or running system commands without user interaction.
 
+![preview](https://github.com/user-attachments/assets/bd4d3122-91ff-4f88-8b56-83e10a242d64)
+
+
 ## Features
 
 - **Invisible Command Execution**: Converts `.bat` script commands into C++ code that runs them in the background, without showing a console window.
